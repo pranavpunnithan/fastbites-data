@@ -7,7 +7,7 @@
     "rating": "4.3 ⭐",
     "cuisine": "Pizza, Fast Food",
     "deliveryTime": "30 mins"
-    "imageUrl": "YOUR_CLOUDINARY_IMAGE_URL"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758742/1_krpx1g.png"
   },
   {
     "id": 102,
@@ -15,6 +15,7 @@
     "rating": "4.1 ⭐",
     "cuisine": "Burger, Fast Food",
     "deliveryTime": "25 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758741/2_uyek7j.png"
   },
   {
     "id": 103,
@@ -22,6 +23,7 @@
     "rating": "4.2 ⭐",
     "cuisine": "Burger, American",
     "deliveryTime": "20 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758741/3_lvoaps.png"
   },
   {
     "id": 104,
@@ -29,6 +31,7 @@
     "rating": "4.4 ⭐",
     "cuisine": "Pizza, Italian",
     "deliveryTime": "25 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758742/4_ettnnn.png"
   },
   {
     "id": 105,
@@ -36,6 +39,7 @@
     "rating": "4.2 ⭐",
     "cuisine": "Burgers, Fast Food",
     "deliveryTime": "20 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758742/5_jpvzjq.png"
   },
   {
     "id": 106,
@@ -43,6 +47,7 @@
     "rating": "4.0 ⭐",
     "cuisine": "Sandwiches, Healthy Food",
     "deliveryTime": "25 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758743/6_hfiyfj.png"
   },
   {
     "id": 107,
@@ -50,6 +55,7 @@
     "rating": "4.1 ⭐",
     "cuisine": "Mexican, Fast Food",
     "deliveryTime": "30 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758744/7_y7lyx3.png"
   },
   {
     "id": 108,
@@ -57,6 +63,7 @@
     "rating": "4.3 ⭐",
     "cuisine": "Coffee, Beverages",
     "deliveryTime": "20 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758745/8_sfjnrm.png"
   },
   {
     "id": 109,
@@ -64,6 +71,7 @@
     "rating": "4.0 ⭐",
     "cuisine": "Coffee, Snacks",
     "deliveryTime": "20 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758745/9_eebcyx.png"
   },
   {
     "id": 110,
@@ -71,6 +79,7 @@
     "rating": "4.4 ⭐",
     "cuisine": "Waffles, Desserts",
     "deliveryTime": "25 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758746/10_mtpdzy.png"
   },
   {
     "id": 111,
@@ -78,6 +87,7 @@
     "rating": "4.2 ⭐",
     "cuisine": "Ice Cream, Desserts",
     "deliveryTime": "20 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758749/11_qb1u92.png"
   },
   {
     "id": 112,
@@ -85,6 +95,7 @@
     "rating": "4.1 ⭐",
     "cuisine": "Momos, Asian",
     "deliveryTime": "30 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758747/12_icnw0x.png"
   },
   {
     "id": 113,
@@ -92,6 +103,7 @@
     "rating": "4.2 ⭐",
     "cuisine": "Biryani, Indian",
     "deliveryTime": "35 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758748/13_mrcp5l.png"
   },
   {
     "id": 114,
@@ -99,6 +111,7 @@
     "rating": "4.3 ⭐",
     "cuisine": "Biryani, Hyderabadi",
     "deliveryTime": "35 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758749/14_n0g1sw.png"
   },
   {
     "id": 115,
@@ -106,6 +119,7 @@
     "rating": "4.2 ⭐",
     "cuisine": "North Indian, Snacks",
     "deliveryTime": "30 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758749/15_suxzhy.png"
   },
   {
     "id": 116,
@@ -113,6 +127,7 @@
     "rating": "4.4 ⭐",
     "cuisine": "Barbecue, North Indian",
     "deliveryTime": "40 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758750/16_m7v2ho.png"
   },
   {
     "id": 117,
@@ -120,6 +135,7 @@
     "rating": "4.3 ⭐",
     "cuisine": "Biryani, Mughlai",
     "deliveryTime": "35 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758751/17_uowdk7.png"
   },
   {
     "id": 118,
@@ -127,6 +143,7 @@
     "rating": "4.1 ⭐",
     "cuisine": "Wraps, Fast Food",
     "deliveryTime": "25 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758752/18_tvpy50.png"
   },
   {
     "id": 119,
@@ -134,6 +151,7 @@
     "rating": "4.0 ⭐",
     "cuisine": "Indian Meals, Thalis",
     "deliveryTime": "30 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758756/19_zhfwmm.png"
   },
   {
     "id": 120,
@@ -141,6 +159,7 @@
     "rating": "4.2 ⭐",
     "cuisine": "Pizza, Italian",
     "deliveryTime": "30 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758753/20_fxuewo.png"
   },
   {
     "id": 121,
@@ -148,6 +167,7 @@
     "rating": "4.3 ⭐",
     "cuisine": "Mexican, Bowls",
     "deliveryTime": "30 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758754/21_im8rqf.png"
   },
   {
     "id": 122,
@@ -155,6 +175,7 @@
     "rating": "4.4 ⭐",
     "cuisine": "Ice Cream, Desserts",
     "deliveryTime": "20 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758754/22_l89xi6.png"
   },
   {
     "id": 123,
@@ -162,6 +183,7 @@
     "rating": "4.1 ⭐",
     "cuisine": "South Indian, Chettinad",
     "deliveryTime": "35 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758755/23_wsj4wg.png"
   },
   {
     "id": 124,
@@ -169,6 +191,7 @@
     "rating": "4.2 ⭐",
     "cuisine": "South Indian, Vegetarian",
     "deliveryTime": "30 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758756/24_euuqgo.png"
   },
   {
     "id": 125,
@@ -176,5 +199,6 @@
     "rating": "4.0 ⭐",
     "cuisine": "Tea, Snacks",
     "deliveryTime": "20 mins"
+    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/v1792758756/25_xelbhv.png"
   }
 ]
