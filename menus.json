@@ -1333,64 +1333,6 @@
       "imageUrl": "YOUR_CLOUDINARY_IMAGE_URL"
     }
   ],
-  "124": [
-    {
-      "id": 12401,
-      "restaurantId": 124,
-      "name": "Idli (3 pcs)",
-      "price": 69,
-      "imageUrl": "YOUR_CLOUDINARY_IMAGE_URL"
-    },
-    {
-      "id": 12402,
-      "restaurantId": 124,
-      "name": "Masala Dosa",
-      "price": 129,
-      "imageUrl": "YOUR_CLOUDINARY_IMAGE_URL"
-    },
-    {
-      "id": 12403,
-      "restaurantId": 124,
-      "name": "Ghee Pongal",
-      "price": 119,
-      "imageUrl": "YOUR_CLOUDINARY_IMAGE_URL"
-    },
-    {
-      "id": 12404,
-      "restaurantId": 124,
-      "name": "Mini Tiffin",
-      "price": 149,
-      "imageUrl": "YOUR_CLOUDINARY_IMAGE_URL"
-    },
-    {
-      "id": 12405,
-      "restaurantId": 124,
-      "name": "South Indian Meals",
-      "price": 199,
-      "imageUrl": "YOUR_CLOUDINARY_IMAGE_URL"
-    },
-    {
-      "id": 12406,
-      "restaurantId": 124,
-      "name": "Paneer Dosa",
-      "price": 169,
-      "imageUrl": "YOUR_CLOUDINARY_IMAGE_URL"
-    },
-    {
-      "id": 12407,
-      "restaurantId": 124,
-      "name": "Filter Coffee",
-      "price": 49,
-      "imageUrl": "YOUR_CLOUDINARY_IMAGE_URL"
-    },
-    {
-      "id": 12408,
-      "restaurantId": 124,
-      "name": "Gulab Jamun",
-      "price": 69,
-      "imageUrl": "YOUR_CLOUDINARY_IMAGE_URL"
-    }
-  ],
   "125": [
     {
       "id": 12501,
