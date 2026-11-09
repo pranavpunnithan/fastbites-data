@@ -184,14 +184,6 @@
     "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/c_fill,w_300,h_200,q_auto,f_auto/v1792758755/23_wsj4wg.png"
   },
   {
-    "id": 124,
-    "name": "A2B",
-    "rating": "4.2 ⭐",
-    "cuisine": "South Indian, Vegetarian",
-    "deliveryTime": "30 mins",
-    "imageUrl": "https://res.cloudinary.com/dzic3rrqp/image/upload/c_fill,w_300,h_200,q_auto,f_auto/v1792758756/24_euuqgo.png"
-  },
-  {
     "id": 125,
     "name": "Chai Point",
     "rating": "4.0 ⭐",
